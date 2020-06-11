@@ -5,7 +5,7 @@
 | No. |   Questions                                              |
 |-----|----------------------------------------------------------|
 | 01. |[What is ASP.Net?](#01-what-is-aspnet)|
-| 02. |[What are the different validators in ASP.NET?](#02-what-are-the-different-validators-in-asp-net)|
+| 02. |[What are the different validators in ASP.NET?](#02-what-are-the-different-validators-in-aspnet)|
 
 #### 01. ***What is ASP.Net?***
 It is a framework developed by Microsoft on which we can develop new generation web sites using web forms(aspx), 
