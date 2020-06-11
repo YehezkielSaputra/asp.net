@@ -4,10 +4,10 @@
 
 | No. |   Questions                                              |
 |-----|----------------------------------------------------------|
-| 01. |[What is ASP.Net?](#what-is-asp-net)|
+| 01. |[What is ASP.Net?](#what-is-aspnet)|
 | 02. |[What are the different validators in ASP.NET?](#what-are-the-different-validators-in-asp-net)|
 
-#### 01. ***What is ASP.Net?***
+#### 01. ***What is ASPNet?***
 It is a framework developed by Microsoft on which we can develop new generation web sites using web forms(aspx), 
 MVC, HTML, Javascript, CSS etc. Its successor of Microsoft Active Server Pages(ASP). 
 Currently there is ASP.NET 4.0, which is used to develop web sites. 
