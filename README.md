@@ -52,7 +52,9 @@ ViewState is stored in a hidden field on the page at client side. ViewState is t
        In-Process stores the session in memory on the web server.
     
     2. Out-of-Process.
-       Out-of-Process Session state management stores data in an external server. The external server may be either a SQL Server or a State Server. All objects stored in session are required to be serializable for Out-of-Process state management. 
+       Out-of-Process Session state management stores data in an external server. 
+       The external server may be either a SQL Server or a State Server. 
+       All objects stored in session are required to be serializable for Out-of-Process state management. 
 
 <div align="right">
     <b><a href="#">back to top</a></b>
