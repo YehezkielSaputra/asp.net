@@ -4,7 +4,8 @@
 
 | No. |   Questions                                              |
 |-----|----------------------------------------------------------|
-| 01. |[What is ASP.Net?](#01-what-is-asp-net)|
+| 01. |[What is ASP.Net?](#what-is-asp-net)|
+| 02. |[What are the different validators in ASP.NET?](#what-are-the-different-validators-in-asp-net)|
 
 #### 01. ***What is ASP.Net?***
 It is a framework developed by Microsoft on which we can develop new generation web sites using web forms(aspx), 
@@ -16,3 +17,15 @@ Eg: aspx, asmx, ascx, ashx, cs, vb, html, XML etc.
 <div align="right">
     <b><a href="#">back to top</a></b>
 </div>
+
+#### 02. ***What are the different validators in ASP.NET?***
+    1. Required field Validator
+    2. Range Validator
+    3. Compare Validator
+    4. Custom Validator
+    5. Regular expression Validator
+    6. Summary Validator
+    
+<div align="right">
+    <b><a href="#">back to top</a></b>
+</div> 
